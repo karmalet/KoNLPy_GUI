@@ -1,6 +1,6 @@
 # KoNLPy_GUI
-Graphic User Interface for KoNLPy Korean POS tagger
-All rights belong to its owner, [konlpy](https://github.com/konlpy/konlpy).
+Graphic User Interface for KoNLPy Korean POS tagger <br>
+All rights belong to its owner, [konlpy](https://github.com/konlpy/konlpy). <br>
 For personal, non-profit use only.
 
 ## Windows에서 실행
